@@ -22,7 +22,7 @@ parser: v2
 
 - How to write an effective **intent statement** for an agent
 - How to review and validate the assets created, including the generated **Product Requirements Document (PRD)**
-- How to deploy a production-ready Joule Agent Extension to the SAP managed service
+- How to deploy a production-ready Joule Agent to the SAP managed service
 
 
 ## Intro
@@ -37,7 +37,7 @@ parser: v2
 > - **Educational use only:** This environment is designed for learning and experimentation, not for production use.
 > - **Potential instability:** As a preview version, you may encounter occasional instability or unexpected behavior.
 
-If you have attended the keynote at TechEd 2026, you will have seen the demo of Joule Studio using the the fictitious companny, Morvanto Limited, and the problems associated with the distribution of its flagship launch product "Smyle". This is a typical scenario that can be applied to similar companies.
+If you have attended the keynote at TechEd 2026, you will have seen the demo of Joule Studio using the the fictitious company, Morvanto Limited, and the problems associated with the distribution of its flagship launch product "Smyle". This is a typical scenario that can be applied to similar companies.
 
 
 ### Understand the Business Challenge
